@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663252026342",
+    "project_id": "my-food-bag-5652d",
+    "storage_bucket": "my-food-bag-5652d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663252026342:android:71ae256a3fa68c73ed0c27",
+        "android_client_info": {
+          "package_name": "com.daniel.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663252026342-55t9oualqql7rdsgg4rjvarcpu69gish.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5u2lflFCI4V2uX_R6F3F6SDTkDc8ioE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663252026342-55t9oualqql7rdsgg4rjvarcpu69gish.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
